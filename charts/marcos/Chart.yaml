@@ -1,0 +1,7 @@
+apiVersion: v2
+name: marcos
+description: Meu primeiro chart.
+type: application
+version: 0.1.0
+appVersion: "1.16.0"
+icon: https://lh3.googleusercontent.com/a-/AOh14Gi_zM45rG2G3wqXlLH8LgBs4d50o9KakwzZk9tFrw=s288-p-no
